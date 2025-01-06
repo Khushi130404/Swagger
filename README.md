@@ -13,3 +13,15 @@ The Swagger REST API Project is a backend application developed using Advance Ja
 - Swagger integration for API documentation.
 
 - Uses MySQL database hosted on Wamp Server.
+
+## Technologies and Tools Used
+
+- Advance Java
+
+- Spring Boot (v3.1.2)
+
+- Wamp Server
+
+- MySQL
+
+- Swagger UI for API documentation
