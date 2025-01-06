@@ -25,3 +25,25 @@ The Swagger REST API Project is a backend application developed using Advance Ja
 - MySQL
 
 - Swagger UI for API documentation
+
+## Dependencies
+
+- Spring Boot Data JPA
+  
+- Spring Boot Thymeleaf
+
+- Spring Boot Web
+
+- Swagger OpenAPI
+
+- Jakarta Mail for Email Functionality
+
+- Spring Boot Mail
+
+- Validation
+
+- MySQL Connector
+
+- Lombok for Boilerplate Code Reduction
+
+- Spring Boot Test
